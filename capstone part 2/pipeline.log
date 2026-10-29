@@ -1,0 +1,90 @@
+2026-10-28 15:10:44,971 - __main__ - INFO - Starting pipeline execution...
+2026-10-28 15:10:44,972 - __main__ - INFO - Attempting to load dataset from /Users/chitthwayhnit/Desktop/Metro_Interstate_Traffic_Volume.csv
+2026-10-28 15:10:45,021 - __main__ - INFO - Successfully loaded raw file. Rows: 48204, Columns: 9
+2026-10-28 15:10:45,023 - __main__ - INFO - Schema validation passed successfully. All columns present.
+2026-10-28 15:10:45,041 - __main__ - WARNING - Removed 17 duplicate rows from the dataset.
+2026-10-28 15:10:45,059 - __main__ - WARNING - Imputed 10 temperature outliers (<= 0 Kelvin) using monthly median values.
+2026-10-28 15:10:45,060 - __main__ - WARNING - Imputed 1 impossible rain records (> 9000 mm) using the median value.
+2026-10-28 15:10:45,061 - __main__ - INFO - Data cleaning and outlier imputation completed successfully.
+2026-10-28 15:10:45,061 - __main__ - INFO - Pipeline Task 1 finished successfully!
+2026-10-28 15:14:11,483 - __main__ - INFO - Starting pipeline execution...
+2026-10-28 15:14:11,483 - __main__ - INFO - Starting pipeline execution...
+2026-10-28 15:14:11,484 - __main__ - INFO - Attempting to load dataset from /Users/chitthwayhnit/Desktop/Metro_Interstate_Traffic_Volume.csv
+2026-10-28 15:14:11,484 - __main__ - INFO - Attempting to load dataset from /Users/chitthwayhnit/Desktop/Metro_Interstate_Traffic_Volume.csv
+2026-10-28 15:14:11,522 - __main__ - INFO - Successfully loaded raw file. Rows: 48204, Columns: 9
+2026-10-28 15:14:11,522 - __main__ - INFO - Successfully loaded raw file. Rows: 48204, Columns: 9
+2026-10-28 15:14:11,525 - __main__ - INFO - Schema validation passed successfully. All columns present.
+2026-10-28 15:14:11,525 - __main__ - INFO - Schema validation passed successfully. All columns present.
+2026-10-28 15:14:11,543 - __main__ - WARNING - Removed 17 duplicate rows from the dataset.
+2026-10-28 15:14:11,543 - __main__ - WARNING - Removed 17 duplicate rows from the dataset.
+2026-10-28 15:14:11,558 - __main__ - WARNING - Imputed 10 temperature outliers (<= 0 Kelvin) using monthly median values.
+2026-10-28 15:14:11,558 - __main__ - WARNING - Imputed 10 temperature outliers (<= 0 Kelvin) using monthly median values.
+2026-10-28 15:14:11,560 - __main__ - WARNING - Imputed 1 impossible rain records (> 9000 mm) using the median value.
+2026-10-28 15:14:11,560 - __main__ - WARNING - Imputed 1 impossible rain records (> 9000 mm) using the median value.
+2026-10-28 15:14:11,560 - __main__ - INFO - Data cleaning and outlier imputation completed successfully.
+2026-10-28 15:14:11,560 - __main__ - INFO - Data cleaning and outlier imputation completed successfully.
+2026-10-28 15:14:11,562 - __main__ - INFO - Pipeline Task 1 finished successfully!
+2026-10-28 15:14:11,562 - __main__ - INFO - Pipeline Task 1 finished successfully!
+2026-10-28 15:31:53,828 - __main__ - INFO - Starting pipeline execution...
+2026-10-28 15:31:53,828 - __main__ - INFO - Starting pipeline execution...
+2026-10-28 15:31:53,828 - __main__ - INFO - Starting pipeline execution...
+2026-10-28 15:31:53,831 - __main__ - INFO - Attempting to load dataset from /Users/chitthwayhnit/Desktop/Metro_Interstate_Traffic_Volume.csv
+2026-10-28 15:31:53,831 - __main__ - INFO - Attempting to load dataset from /Users/chitthwayhnit/Desktop/Metro_Interstate_Traffic_Volume.csv
+2026-10-28 15:31:53,831 - __main__ - INFO - Attempting to load dataset from /Users/chitthwayhnit/Desktop/Metro_Interstate_Traffic_Volume.csv
+2026-10-28 15:31:53,881 - __main__ - INFO - Successfully loaded raw file. Rows: 48204, Columns: 9
+2026-10-28 15:31:53,881 - __main__ - INFO - Successfully loaded raw file. Rows: 48204, Columns: 9
+2026-10-28 15:31:53,881 - __main__ - INFO - Successfully loaded raw file. Rows: 48204, Columns: 9
+2026-10-28 15:31:53,887 - __main__ - INFO - Schema validation passed successfully. All columns present.
+2026-10-28 15:31:53,887 - __main__ - INFO - Schema validation passed successfully. All columns present.
+2026-10-28 15:31:53,887 - __main__ - INFO - Schema validation passed successfully. All columns present.
+2026-10-28 15:31:53,907 - __main__ - WARNING - Removed 17 duplicate rows from the dataset.
+2026-10-28 15:31:53,907 - __main__ - WARNING - Removed 17 duplicate rows from the dataset.
+2026-10-28 15:31:53,907 - __main__ - WARNING - Removed 17 duplicate rows from the dataset.
+2026-10-28 15:31:53,930 - __main__ - WARNING - Imputed 10 temperature outliers (<= 0 Kelvin) using monthly median values.
+2026-10-28 15:31:53,930 - __main__ - WARNING - Imputed 10 temperature outliers (<= 0 Kelvin) using monthly median values.
+2026-10-28 15:31:53,930 - __main__ - WARNING - Imputed 10 temperature outliers (<= 0 Kelvin) using monthly median values.
+2026-10-28 15:31:53,932 - __main__ - WARNING - Imputed 1 impossible rain records (> 9000 mm) using the median value.
+2026-10-28 15:31:53,932 - __main__ - WARNING - Imputed 1 impossible rain records (> 9000 mm) using the median value.
+2026-10-28 15:31:53,932 - __main__ - WARNING - Imputed 1 impossible rain records (> 9000 mm) using the median value.
+2026-10-28 15:31:53,933 - __main__ - INFO - Data cleaning and outlier imputation completed successfully.
+2026-10-28 15:31:53,933 - __main__ - INFO - Data cleaning and outlier imputation completed successfully.
+2026-10-28 15:31:53,933 - __main__ - INFO - Data cleaning and outlier imputation completed successfully.
+2026-10-28 15:31:53,935 - __main__ - INFO - Pipeline Task 1 finished successfully!
+2026-10-28 15:31:53,935 - __main__ - INFO - Pipeline Task 1 finished successfully!
+2026-10-28 15:31:53,935 - __main__ - INFO - Pipeline Task 1 finished successfully!
+2026-10-28 15:42:12,180 - __main__ - INFO - Starting pipeline execution...
+2026-10-28 15:42:12,180 - __main__ - INFO - Starting pipeline execution...
+2026-10-28 15:42:12,180 - __main__ - INFO - Starting pipeline execution...
+2026-10-28 15:42:12,180 - __main__ - INFO - Starting pipeline execution...
+2026-10-28 15:42:12,183 - __main__ - INFO - Attempting to load dataset from /Users/chitthwayhnit/Desktop/Metro_Interstate_Traffic_Volume.csv
+2026-10-28 15:42:12,183 - __main__ - INFO - Attempting to load dataset from /Users/chitthwayhnit/Desktop/Metro_Interstate_Traffic_Volume.csv
+2026-10-28 15:42:12,183 - __main__ - INFO - Attempting to load dataset from /Users/chitthwayhnit/Desktop/Metro_Interstate_Traffic_Volume.csv
+2026-10-28 15:42:12,183 - __main__ - INFO - Attempting to load dataset from /Users/chitthwayhnit/Desktop/Metro_Interstate_Traffic_Volume.csv
+2026-10-28 15:42:12,225 - __main__ - INFO - Successfully loaded raw file. Rows: 48204, Columns: 9
+2026-10-28 15:42:12,225 - __main__ - INFO - Successfully loaded raw file. Rows: 48204, Columns: 9
+2026-10-28 15:42:12,225 - __main__ - INFO - Successfully loaded raw file. Rows: 48204, Columns: 9
+2026-10-28 15:42:12,225 - __main__ - INFO - Successfully loaded raw file. Rows: 48204, Columns: 9
+2026-10-28 15:42:12,228 - __main__ - INFO - Schema validation passed successfully. All columns present.
+2026-10-28 15:42:12,228 - __main__ - INFO - Schema validation passed successfully. All columns present.
+2026-10-28 15:42:12,228 - __main__ - INFO - Schema validation passed successfully. All columns present.
+2026-10-28 15:42:12,228 - __main__ - INFO - Schema validation passed successfully. All columns present.
+2026-10-28 15:42:12,246 - __main__ - WARNING - Removed 17 duplicate rows from the dataset.
+2026-10-28 15:42:12,246 - __main__ - WARNING - Removed 17 duplicate rows from the dataset.
+2026-10-28 15:42:12,246 - __main__ - WARNING - Removed 17 duplicate rows from the dataset.
+2026-10-28 15:42:12,246 - __main__ - WARNING - Removed 17 duplicate rows from the dataset.
+2026-10-28 15:42:12,269 - __main__ - WARNING - Imputed 10 temperature outliers (<= 0 Kelvin) using monthly median values.
+2026-10-28 15:42:12,269 - __main__ - WARNING - Imputed 10 temperature outliers (<= 0 Kelvin) using monthly median values.
+2026-10-28 15:42:12,269 - __main__ - WARNING - Imputed 10 temperature outliers (<= 0 Kelvin) using monthly median values.
+2026-10-28 15:42:12,269 - __main__ - WARNING - Imputed 10 temperature outliers (<= 0 Kelvin) using monthly median values.
+2026-10-28 15:42:12,272 - __main__ - WARNING - Imputed 1 impossible rain records (> 9000 mm) using the median value.
+2026-10-28 15:42:12,272 - __main__ - WARNING - Imputed 1 impossible rain records (> 9000 mm) using the median value.
+2026-10-28 15:42:12,272 - __main__ - WARNING - Imputed 1 impossible rain records (> 9000 mm) using the median value.
+2026-10-28 15:42:12,272 - __main__ - WARNING - Imputed 1 impossible rain records (> 9000 mm) using the median value.
+2026-10-28 15:42:12,273 - __main__ - INFO - Data cleaning and outlier imputation completed successfully.
+2026-10-28 15:42:12,273 - __main__ - INFO - Data cleaning and outlier imputation completed successfully.
+2026-10-28 15:42:12,273 - __main__ - INFO - Data cleaning and outlier imputation completed successfully.
+2026-10-28 15:42:12,273 - __main__ - INFO - Data cleaning and outlier imputation completed successfully.
+2026-10-28 15:42:12,276 - __main__ - INFO - Pipeline Task 1 finished successfully!
+2026-10-28 15:42:12,276 - __main__ - INFO - Pipeline Task 1 finished successfully!
+2026-10-28 15:42:12,276 - __main__ - INFO - Pipeline Task 1 finished successfully!
+2026-10-28 15:42:12,276 - __main__ - INFO - Pipeline Task 1 finished successfully!
